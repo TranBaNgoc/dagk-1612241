@@ -1,0 +1,49 @@
+
+.login-form {
+    max-width: 400px;
+    margin: auto;
+}
+.login-form-forgot {
+  float: left;
+}
+.login-form-button {
+  width: 100%;
+}
+.option{
+  display: grid;
+  text-align: center;
+  width: 60%;
+  height: 300px;
+  margin: auto;
+}
+.Container {
+  width: 65%;
+  height: 550px;
+  margin: inherit;
+}
+.h3{
+  text-align: center;
+    padding-bottom: 10px;
+}
+.register{
+  margin: inherit;
+    width: 65%;
+  height: 580px;
+}
+.changpass{
+  width: 65%;
+  height: 400px;
+  margin: inherit;
+}
+
+button {
+   
+  background-color: #28a745;
+}
+.setMargin{
+    margin: 0px;
+}
+.icon{
+  vertical-align: 0em;
+}
+
